@@ -13,9 +13,9 @@ I am a Ph.D. student at the Department of Computer Science, [North Carolina Stat
 
 Updates
 ======
-- [03/2023] Received *CPS-IoT Week Travel Grant*!
+- [03/2023] Received **CPS-IoT Week Student Travel Grant**!
 - [01/2023] One paper on **Mixed-Criticality Scheduling** accepted at **RTAS 2023**
-- [11/2022] Received *IEEE RTSS Travel Grant*!
+- [11/2022] Received **IEEE RTSS Travel Grant**!
 - [11/2022] One workshop paper on *Resilient RT Scheduling* accepted at RTSS-WMC 2022
 - [06/2022] Received **Presentation Fellowship** from UCF!
 - [04/2022] **DAC 2022** paper on *ROS 2* selected as <span style="color:red">**Publicity Paper**!</span>
