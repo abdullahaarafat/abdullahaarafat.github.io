@@ -13,7 +13,7 @@ I am a Ph.D. student at the Department of Computer Science, [North Carolina Stat
 
 Updates
 ======
-- [04/2022] **DAC 2022** on *ROS 2* selected as **Publicity Paper**!
+- [04/2022] **DAC 2022** paper on *ROS 2* selected as <span style="color:red">**Publicity Paper**!</span>
 - [03/2022] Our survey paper on *ML for Real-Time CPS* accepted on **IEEE IoT-J**
 - [02/2022] One paper (**ROS2 Scheduling**) accepted at **ACM/IEEE DAC 2022**
 - [04/2021] Received **Doctoral Research Support Award** from the College of Graduate Studies, UCF!  
