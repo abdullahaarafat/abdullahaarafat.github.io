@@ -22,7 +22,7 @@ Updates
 - [04/2022] **DAC 2022** paper on *ROS 2* selected as <span style="color:red">**Publicity Paper**!</span> [(News coverage)](https://www.ece.ucf.edu/ece-research-selected-as-design-automation-conference-dac22-publicity-paper/)
 - [03/2022] Our survey paper on *ML for Real-Time CPS* accepted at **IEEE IoT-J**
 - [02/2022] One paper (**ROS2 Scheduling**) accepted at <span style="color:blue">**ACM/IEEE DAC 2022**</span>
-- [04/2021] Received **Doctoral Research Support Award** from the College of Graduate Studies, UCF!  
+- [04/2021] Received **Doctoral Research Support Award** (award amount: $3000.00) from the College of Graduate Studies, UCF!  
 - [01/2021] One paper (**VR-Spy**) accepted at <span style="color:blue">**IEEE VR 2021**</span>
 
 **Professional Services**
