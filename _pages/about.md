@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the Department of Computer Science, [North Carolina State University](https://www.csc.ncsu.edu/), Raleigh, North Carolina, USA. Currently, I work in [Real-Time and Intelligent Systems (RTIS) Lab](https://zguo32.wordpress.ncsu.edu/) advised by [Dr. Zhishan Guo](https://www.csc.ncsu.edu/people/zguo32). I received my BS in Electrical Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/), Bangladesh, in 2016 and an MS in Computer Engineering from the University of Central Florida, Orlando, Florida, USA, in 2020. My research interests include Scheduling Theory, Algorithms, and Real-Time \& Intelligent Systems.
+I am a Ph.D. student at the Department of Computer Science, [North Carolina State University](https://www.csc.ncsu.edu/), Raleigh, North Carolina, USA. Currently, I work in [Real-Time and Intelligent Systems (RTIS) Lab](https://zguo32.wordpress.ncsu.edu/) advised by [Dr. Zhishan Guo](https://www.csc.ncsu.edu/people/zguo32). I received my BS in Electrical Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/), Bangladesh, in 2016 and an MS in Computer Engineering from the University of Central Florida, Orlando, Florida, USA, in 2020. My research interests include Scheduling Theory, Algorithms, and Real-Time & Intelligent Systems.
 
 
 Updates
