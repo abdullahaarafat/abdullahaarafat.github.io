@@ -19,7 +19,7 @@ Updates
 - [11/2022] One workshop paper on *Resilient RT Scheduling* accepted at RTSS-WMC 2022
 - [06/2022] Received **Presentation Fellowship** from UCF!
 - [04/2022] **DAC 2022** paper on *ROS 2* selected as <span style="color:red">**Publicity Paper**!</span>
-- [03/2022] Our survey paper on *ML for Real-Time CPS* accepted on **IEEE IoT-J**
+- [03/2022] Our survey paper on *ML for Real-Time CPS* accepted at **IEEE IoT-J**
 - [02/2022] One paper (**ROS2 Scheduling**) accepted at **ACM/IEEE DAC 2022**
 - [04/2021] Received **Doctoral Research Support Award** from the College of Graduate Studies, UCF!  
 - [01/2021] One paper (**VR-Spy**) accepted at **IEEE VR 2021** 
