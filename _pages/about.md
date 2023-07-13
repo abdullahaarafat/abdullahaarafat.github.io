@@ -28,6 +28,10 @@ Updates
 **Professional Services**
 =======
 
+**Journal Subreviewer** 
+    
+- IEEE TNNLS, IEEE TCAD, IEEE TIME, IEEE TPDS, ACM TECS, etc.
+
 **Conference Subreviewer**
     
 - Real-Time Systems Symposium (**RTSS** 2021, 2022, 2023)
