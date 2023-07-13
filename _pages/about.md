@@ -31,7 +31,7 @@ Updates
 **Conference Subreviewer**
     
 - Real-Time Systems Symposium (**RTSS** 2021, 2022, 2023)
-- Real-Time and Embedded Technology and Applications (**RTAS** 2022,2023)
+- Real-Time and Embedded Technology and Applications (**RTAS** 2022)
 - ACM/IEEE Design Automation Conference (**DAC** 2021, 2022)
 - International Conference on Real-Time Networks and Systems (**RTNS** 2021, 2022, 2023)
 - Embedded and Real-Time Computing Systems and Applications (**RTCSA** 2021, 2022, 2023)
