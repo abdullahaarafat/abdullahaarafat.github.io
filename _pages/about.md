@@ -13,6 +13,7 @@ I am a Ph.D. student at the Department of Computer Science, [North Carolina Stat
 
 Updates
 ======
+- [04/2023] Received COE Travel Grant from NCSU!
 - [03/2023] Received **ACM SIGBED Student Travel Grant** for CPS-IoT Week!
 - [01/2023] One paper on **Mixed-Criticality Scheduling** accepted at <span style="color:blue">**RTAS 2023**</span>
 - [11/2022] Received **IEEE RTSS Travel Grant**!
