@@ -1,16 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: "Journal Papers"
 permalink: /publications/
 author_profile: true
+
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. Jiang Bian$^*$, \underline{Abdullah Al Arafat$^*$}, Haoyi Xiong, Jing Li, Li Li, Hongyang Chen, Jun Wang, Dejing Dou, and Zhishan Guo. `\textit{Machine Learning in Real-Time Internet of Things (IoT) Systems: A Survey}' {IEEE Internet of Things Journal (IoT-J), 2022.
