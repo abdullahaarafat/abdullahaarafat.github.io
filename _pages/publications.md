@@ -12,4 +12,4 @@ author_profile: true
 Conference Papers
 ======
 1. _**Abdullah Al Arafat**_, _Sabbir Ahmed_, _Mamshad Nayeem Rizve_, Rahim Hossain, Zhishan Guo, and Adnan Siraj Rakin. [SSDA: Secure Source-Free Domain Adaptation](), in *International Conference on Computer Vision **(ICCV)**, 2023.*
-2. **Abdullah Al Arafat**, Sudharsan Vaidhun, Liangkai Liu, Kechang Yang, and Zhishan Guo. [Compositional Mixed-Criticality Systems with Multiple Executions and Resource-Budgets Model](), in *IEEE 29th Real-Time and Embedded Technology and Applications Symposium **(RTAS)**, pp. 67-79, 2023.*
+1. **Abdullah Al Arafat**, Sudharsan Vaidhun, Liangkai Liu, Kechang Yang, and Zhishan Guo. [Compositional Mixed-Criticality Systems with Multiple Executions and Resource-Budgets Model](), in *IEEE 29th Real-Time and Embedded Technology and Applications Symposium **(RTAS)**, pp. 67-79, 2023.*
