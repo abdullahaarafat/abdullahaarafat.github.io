@@ -15,7 +15,7 @@ Updates
 ======
 - [07/2023] One paper (**SSDA**) accepted at <span style="color:blue">**ICCV 2023**</span>
 - [04/2023] Received COE Travel Grant from NCSU!
-- [03/2023] Received **ACM SIGBED Student Travel Grant** for CPS-IoT Week!
+- [03/2023] Received **ACM SIGBED Student Travel Grant** for CPS-IoT Week 2023!
 - [01/2023] One paper on **Mixed-Criticality Scheduling** accepted at <span style="color:blue">**RTAS 2023**</span>
 - [11/2022] Received **IEEE RTSS Travel Grant**!
 - [11/2022] One workshop paper on *Resilient RT Scheduling* accepted at RTSS-WMC 2022
