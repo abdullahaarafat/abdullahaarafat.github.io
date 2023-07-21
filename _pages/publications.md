@@ -16,10 +16,10 @@ Journal Papers
 Conference Papers
 ======
 1. **Abdullah Al Arafat**<b><sup>#</sup></b>, Sabbir Ahmed<b><sup>#</sup></b>, Mamshad Nayeem Rizve<b><sup>#</sup></b>, Rahim Hossain, Zhishan Guo, and Adnan Siraj Rakin. [SSDA: Secure Source-Free Domain Adaptation](), in *International Conference on Computer Vision **(ICCV)**, 2023.*
-1. **Abdullah Al Arafat**, Sudharsan Vaidhun, Liangkai Liu, Kechang Yang, and Zhishan Guo. [Compositional Mixed-Criticality Systems with Multiple Executions and Resource-Budgets Model](), in *IEEE 29th Real-Time and Embedded Technology and Applications Symposium **(RTAS)**, pp. 67-79, 2023.*
-1. **Abdullah Al Arafat**, Sudharsan Vaidhun, Kurt M. Wilson, Jinghao Sun, and Zhishan Guo. [Response Time Analysis for Dynamic Priority Scheduling in ROS2](), in *Proceedings of the 59th ACM/IEEE Design Automation Conference **(DAC)**, pp. 301-306, 2022.*
-1. **Abdullah Al Arafat**, Zhishan Guo, and Amro Awad. [VR-Spy: A Side-Channel Attack on Virtual Key-Logging in VR Headsets](), in *IEEE Virtual Reality and 3D User Interfaces **(VR)**, pp. 564-572, 2021.*
+1. **Abdullah Al Arafat**, Sudharsan Vaidhun, Liangkai Liu, Kechang Yang, and Zhishan Guo. [Compositional Mixed-Criticality Systems with Multiple Executions and Resource-Budgets Model](https://abdullahaarafat.github.io/files/2023RTAS__MC_Budget.pdf), in *IEEE 29th Real-Time and Embedded Technology and Applications Symposium **(RTAS)**, pp. 67-79, 2023.*
+1. **Abdullah Al Arafat**, Sudharsan Vaidhun, Kurt M. Wilson, Jinghao Sun, and Zhishan Guo. [Response Time Analysis for Dynamic Priority Scheduling in ROS2](https://dl.acm.org/doi/abs/10.1145/3489517.3530447), in *Proceedings of the 59th ACM/IEEE Design Automation Conference **(DAC)**, pp. 301-306, 2022.*
+1. **Abdullah Al Arafat**, Zhishan Guo, and Amro Awad. [VR-Spy: A Side-Channel Attack on Virtual Key-Logging in VR Headsets](https://abdullahaarafat.github.io/files/2021VR__VRSpy.pdf), in *IEEE Virtual Reality and 3D User Interfaces **(VR)**, pp. 564-572, 2021.*
 
 Workshops and Work-in-Progresses
 ======
-1. **Abdullah Al Arafat**, Sudharsan Vaidhun, Bryan C. Ward, and Zhishan Guo. [A Secure Resilient Real-Time Recovery Model, Scheduler, and Analysis](https://wmc2022.github.io/assets/WMC_2022_Proceedings.pdf), in *10th International Workshop on Mixed Criticality Systems **(RTSS-WMC)**, pp.14-19, 2022.*
+1. **Abdullah Al Arafat**, Sudharsan Vaidhun, Bryan C. Ward, and Zhishan Guo. [A Secure Resilient Real-Time Recovery Model, Scheduler, and Analysis](https://abdullahaarafat.github.io/files/2022WMC_RTSS__SR3.pdf), in *10th International Workshop on Mixed Criticality Systems **(RTSS-WMC)**, pp.14-19, 2022.*
