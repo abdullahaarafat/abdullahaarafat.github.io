@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 
 ---
-Note: Authors with '<b><sup>#</sup></b>' implies equal contribution to the paper
+Note: '<b><sup>#</sup></b>' indicates equal contribution by the authors
 
 Journal Papers
 ======
