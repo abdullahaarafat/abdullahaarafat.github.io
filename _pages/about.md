@@ -13,6 +13,7 @@ I am a Ph.D. student at the Department of Computer Science, [North Carolina Stat
 
 Updates
 ======
+- [08/2023] One paper on **Static Slack Stealing** (conditionally) accepted at <span style="color:blue">**RTSS 2023**</span>
 - [07/2023] One paper (**SSDA**) accepted at <span style="color:blue">**ICCV 2023**</span>
 - [04/2023] Received COE Travel Grant from NCSU!
 - [03/2023] Received **ACM SIGBED Student Travel Grant** for CPS-IoT Week 2023!
