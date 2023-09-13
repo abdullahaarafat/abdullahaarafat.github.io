@@ -34,10 +34,11 @@ Updates
     
 - IEEE TNNLS, IEEE TCAD, IEEE TIME, IEEE TPDS, ACM TECS, etc.
 
-**Conference Subreviewer**
+**Conference Reviewer/Subreviewer**
     
 - Real-Time Systems Symposium (**RTSS** 2021, 2022, 2023)
 - Real-Time and Embedded Technology and Applications (**RTAS** 2022)
 - Design Automation Conference (**DAC** 2021, 2022)
+- AAAI Conference on Artificial Intelligence (**AAAI** 2024)
 - International Conference on Real-Time Networks and Systems (**RTNS** 2021, 2022, 2023)
 - Embedded and Real-Time Computing Systems and Applications (**RTCSA** 2021, 2022, 2023)
