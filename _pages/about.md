@@ -13,6 +13,7 @@ I am a Ph.D. student at the Department of Computer Science, [North Carolina Stat
 
 Updates
 ======
+- [01/2024] Received **Mentored Teaching Fellowship** and will be co-instructor for **CSC 714: Real-Time Systems** at NCSU!
 - [08/2023] One paper on **Static Slack Stealing** accepted at <span style="color:blue">**RTSS 2023**</span>
 - [07/2023] One paper (**SSDA**) accepted at <span style="color:blue">**ICCV 2023**</span>
 - [04/2023] Received COE Travel Grant from NCSU!
@@ -30,14 +31,14 @@ Updates
 **Professional Services**
 =======
 
-**Journal Subreviewer** 
+**Journal Reviewer/Subreviewer** 
     
-- IEEE TNNLS, IEEE TCAD, IEEE TIME, IEEE TPDS, ACM TECS, etc.
+- IEEE IoT-J, IEEE TNNLS, IEEE TCAD, IEEE TIME, IEEE TPDS, ACM TECS, etc.
 
 **Conference Reviewer/Subreviewer**
     
 - Real-Time Systems Symposium (**RTSS** 2021, 2022, 2023)
-- Real-Time and Embedded Technology and Applications (**RTAS** 2022)
+- Real-Time and Embedded Technology and Applications (**RTAS** 2022, 2024)
 - Design Automation Conference (**DAC** 2021, 2022)
 - AAAI Conference on Artificial Intelligence (**AAAI** 2024)
 - International Conference on Real-Time Networks and Systems (**RTNS** 2021, 2022, 2023)
