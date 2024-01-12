@@ -9,7 +9,7 @@ Instructor
 **North Carolina State University, Raleigh, NC**
 
 
-- CSC 714: Real-time Computer Systems (co-teach with Dr. Zhishan Guo)  ----- Spring'24
+- CSC 714: Real-time Computer Systems (co-teach with [Dr. Zhishan Guo](https://www.csc.ncsu.edu/people/zguo32))  ----- Spring'24
 
 
 
