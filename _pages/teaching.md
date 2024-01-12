@@ -11,7 +11,7 @@ Instructor
 
 - CSC 714: Real-time Computer Systems (co-teach with [Dr. Zhishan Guo](https://www.csc.ncsu.edu/people/zguo32))  ----- Spring'24
 
-
+Course page available at [Moodle](https://moodle-courses2324.wolfware.ncsu.edu/course/view.php?id=6839)
 
 Graduate Teaching Assistant
 ==
