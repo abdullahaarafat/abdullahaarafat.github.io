@@ -19,7 +19,7 @@ Graduate Teaching Assistant
 
 - CSC 495: Advanced Algorithms  ----- Spring'23, Fall'23
 - CSC 520: Artificial Intelligence  ----- Fall'23
-- CSC 519/714: Real-Time Computer Systems  ----- Spring'24
+- CSC 591/714: Real-Time Computer Systems  ----- Spring'24
 
 
 **University of Central Florida, Orlando, FL**
