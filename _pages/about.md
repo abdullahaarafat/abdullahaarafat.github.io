@@ -13,6 +13,7 @@ I am a Ph.D. student at the Department of Computer Science, [North Carolina Stat
 
 Updates
 ======
+- [03/2024] Received **Graduate Merit Award** from NCSU!
 - [01/2024] Received **Mentored Teaching Fellowship** and will be co-instructor for **CSC 714: Real-Time Systems** at NCSU!
 - [08/2023] One paper on **Static Slack Stealing** accepted at <span style="color:blue">**RTSS 2023**</span>
 - [07/2023] One paper (**SSDA**) accepted at <span style="color:blue">**ICCV 2023**</span>
