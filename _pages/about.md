@@ -40,6 +40,7 @@ Updates
     
 - Real-Time Systems Symposium (**RTSS** 2021, 2022, 2023)
 - Real-Time and Embedded Technology and Applications (**RTAS** 2022, 2024)
+- Euromicro Conference on Real-Time Systems (**ECRTS** 2024)
 - Design Automation Conference (**DAC** 2021, 2022)
 - AAAI Conference on Artificial Intelligence (**AAAI** 2024)
 - International Conference on Real-Time Networks and Systems (**RTNS** 2021, 2022, 2023)
