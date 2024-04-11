@@ -13,6 +13,7 @@ I am a Ph.D. student at the Department of Computer Science, [North Carolina Stat
 
 Updates
 ======
+- [04/2024] Received **NSF Student Travel Grant** to attend CPS-IoT Week 2024 in Hong Kong, China!
 - [03/2024] Received **Graduate Merit Award** from the College of Engineering, NCSU!
 - [01/2024] Received **Mentored Teaching Fellowship** and will be co-instructor for **CSC 714: Real-Time Systems** at NCSU!
 - [08/2023] One paper on **Static Slack Stealing** accepted at <span style="color:blue">**RTSS 2023**</span>
