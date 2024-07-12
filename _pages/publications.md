@@ -25,4 +25,5 @@ Conference Papers
 
 Workshops and Work-in-Progresses
 ======
-1. **Abdullah Al Arafat**, Sudharsan Vaidhun, Bryan C. Ward, and Zhishan Guo. [A Secure Resilient Real-Time Recovery Model, Scheduler, and Analysis](https://abdullahaarafat.github.io/files/2022WMC__SR3.pdf), in *10th International Workshop on Mixed Criticality Systems **(RTSS-WMC)**, pp.14-19, 2022.*
+1. **[MEMOCODE 2024]** Kurt Wilson, **Abdullah Al Arafat**,  John Baugh, Ruozhou Yu, Zhishan Guo. [Work-In-Progress: Physics-Aware Mixed-Criticality Systems Design via End-to-End Verification of CPS](), in *22nd International Symposium on Formal Methods and Models for System Design **(MEMOCODE)**, 2024.*
+1. **[WMC 2022]** **Abdullah Al Arafat**, Sudharsan Vaidhun, Bryan C. Ward, and Zhishan Guo. [A Secure Resilient Real-Time Recovery Model, Scheduler, and Analysis](https://abdullahaarafat.github.io/files/2022WMC__SR3.pdf), in *10th International Workshop on Mixed Criticality Systems **(WMC)**, @RTSS, pp.14-19, 2022.*
