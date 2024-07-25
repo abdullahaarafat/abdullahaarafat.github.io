@@ -9,7 +9,7 @@ Note: '<b><sup>\*</sup></b>' indicates equal contribution by the authors
 
 Journal Papers
 ======
-1. **[TCAD 2024]** **Abdullah Al Arafat**, Kurt Wilson, Kechang Yang, and Zhishan Guo. [Dynamic Priority Scheduling of Multi-Threaded ROS 2 Executor with Shared Resources](), in *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems **(TCAD)**, 2024*
+1. **[TCAD 2024]** **Abdullah Al Arafat**, Kurt Wilson, Kechang Yang, and Zhishan Guo. [Dynamic Priority Scheduling of Multi-Threaded ROS 2 Executor with Shared Resources](), in *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems **(TCAD)**, 2024.*
 1. **[IoT-J 2022]** **Abdullah Al Arafat**<b><sup>\*</sup></b>,  Jiang Bian<b><sup>\*</sup></b>, Haoyi Xiong, Jing Li, Li Li, Hongyang Chen, Jun Wang, Dejing Dou, and Zhishan Guo. [Machine Learning in Real-Time Internet of Things (IoT) Systems: A Survey](https://ieeexplore.ieee.org/document/9739684), in *IEEE Internet of Things Journal **(IoT-J)**, June 2022, pp. 8364--8386.*
 
 
