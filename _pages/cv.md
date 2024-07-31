@@ -8,3 +8,4 @@ redirect_from:
 ---
 
 
+[CV](https://abdullahaarafat.github.io/files/CV_Abdullah.pdf)
