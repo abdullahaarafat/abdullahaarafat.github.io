@@ -9,9 +9,7 @@ Instructor
 **North Carolina State University, Raleigh, NC**
 
 
-- CSC 714: Real-time Computer Systems (co-teach with [Dr. Zhishan Guo](https://www.csc.ncsu.edu/people/zguo32))
-
-  *Spring 2024*
+- CSC 714: Real-time Computer Systems (co-teach with [Dr. Zhishan Guo](https://www.csc.ncsu.edu/people/zguo32))-----Spring'24
 
 Course page available at [Moodle](https://moodle-courses2324.wolfware.ncsu.edu/course/view.php?id=6839)
 
@@ -19,9 +17,7 @@ Graduate Teaching Assistant
 ==
 **North Carolina State University, Raleigh, NC**
 
-- CSC 495: Advanced Algorithms
-
-  *Spring 2023, Fall 2023*
+- CSC 495: Advanced Algorithms-----Spring'23, Fall'23
 - CSC 520: Artificial Intelligence-----Fall'23
 - CSC 591/714: Real-Time Computer Systems-----Spring'24
 - CSC 505: Design and Analysis of Algorithms-----Fall'24
