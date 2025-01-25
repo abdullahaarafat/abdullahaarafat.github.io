@@ -13,6 +13,7 @@ I am a Ph.D. student at the Department of Computer Science, [North Carolina Stat
 
 News
 ======
+- [01/2025] [New Papers!] **Soteria** got accepted at **HSCC 2025** and **Physics-Informed Mixed-Criticality Scheduling** got accepted at <span style="color:blue">**RTAS 2025**</span>
 - [07/2024] [New Papers!] **NFT** got accepted at <span style="color:blue">**ECCV 2024**</span>; **FIP** got accepted at <span style="color:blue">**CCS 2024**</span>; **Multi-threaded ROS 2** got accepted at <span style="color:blue">**EMSOFT 2024**</span>
 - [04/2024] Received **NSF Student Travel Grant** to attend CPS-IoT Week 2024 in Hong Kong, China!
 - [03/2024] Received **Graduate Merit Award** from the College of Engineering, NCSU!
