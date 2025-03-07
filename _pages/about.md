@@ -24,7 +24,7 @@ News
 - [03/2023] Received **ACM SIGBED Student Travel Grant** for CPS-IoT Week 2023!
 - [01/2023] One paper on **Mixed-Criticality Scheduling** got accepted at <span style="color:blue">**RTAS 2023**</span>
 - [11/2022] Received **IEEE RTSS Travel Grant**!
-- [11/2022] One workshop paper on *Resilient RT Scheduling* got accepted at RTSS-WMC 2022
+- [11/2022] One workshop paper on *Resilient RT Scheduling* got accepted at WMC 2022, co-located with RTSS 2022
 - [06/2022] Received **Presentation Fellowship** from UCF!
 - [04/2022] **DAC 2022** paper on *ROS 2* selected as <span style="color:red">**Publicity Paper**!</span> [(News coverage)](https://www.ece.ucf.edu/ece-research-selected-as-design-automation-conference-dac22-publicity-paper/)
 - [03/2022] Our survey paper on *ML for Real-Time CPS* got accepted at **IEEE IoT-J**
