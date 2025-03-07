@@ -35,6 +35,10 @@ News
 **Professional Services**
 =======
 
+**Program Committee (PC) Member**
+
+- International Conference on Cyber-Physical Systems (**ICCPS** 2025) \[Track: Posters and Demos\]
+
 **Journal Reviewer/Subreviewer** 
     
 - IEEE IoT-J, IEEE TNNLS, IEEE TCAD, IEEE TIME, IEEE TPDS, ACM TECS, etc.
