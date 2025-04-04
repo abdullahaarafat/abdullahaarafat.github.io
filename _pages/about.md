@@ -10,6 +10,12 @@ redirect_from:
 
 I am a Ph.D. student at the Department of Computer Science, [North Carolina State University](https://www.csc.ncsu.edu/), Raleigh, North Carolina, USA. Currently, I work in [Real-Time and Intelligent Systems (RTIS) Lab](https://zguo32.wordpress.ncsu.edu/) advised by [Dr. Zhishan Guo](https://www.csc.ncsu.edu/people/zguo32). I received my BS in Electrical Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/), Bangladesh, in 2016 and an MS in Computer Engineering from the [University of Central Florida](https://www.ece.ucf.edu/), Orlando, Florida, USA, in 2020. My research interests include Scheduling Theory, Algorithms, and Real-Time & Intelligent Systems.
 
+>I will be joining the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University (FIU), Miami, as an Assistant Professor starting in Fall 2025. I am actively looking for self-motivated Ph.D. students to join my research group. My research focuses on scheduling theory, robust, secure, and efficient learning, and their applications in real-time and cyber-physical systems. If you are interested in theoretical foundations or system-oriented research in these areas, I encourage you to reach out! Potential research topics include but are not limited to:
+>- Real-time scheduling and resource management
+>- Robot Operating Systems (ROS 2)
+>- Security and robustness of AI/ML in cyber-physical systems
+>- Resilient and efficient machine learning for safety-critical applications
+
 
 News
 ======
