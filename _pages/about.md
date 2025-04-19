@@ -20,7 +20,7 @@ I am an incoming Assistant Professor at the Knight Foundation School of Computin
 
 News
 ======
-- [04/2025] Defended my **Ph.D. dissertation**!
+- [04/2025] Defended my  <span style="color:red">**Ph.D. dissertation**!</span>
 - [02/2025] Our paper on ViT compression (DeepCompress-ViT) got accepted at <span style="color:blue">**CVPR 2025**</span>
 - [01/2025] [New Papers!] **Soteria** got accepted at **HSCC 2025** and **Physics-Informed Mixed-Criticality Scheduling** got accepted at <span style="color:blue">**RTAS 2025**</span>
 - [07/2024] [New Papers!] **NFT** got accepted at <span style="color:blue">**ECCV 2024**</span>; **FIP** got accepted at <span style="color:blue">**CCS 2024**</span>; **Multi-threaded ROS 2** got accepted at <span style="color:blue">**EMSOFT 2024**</span>
