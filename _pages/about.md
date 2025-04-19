@@ -8,17 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the Department of Computer Science, [North Carolina State University](https://www.csc.ncsu.edu/), Raleigh, North Carolina, USA. Currently, I work in [Real-Time and Intelligent Systems (RTIS) Lab](https://zguo32.wordpress.ncsu.edu/) advised by [Dr. Zhishan Guo](https://www.csc.ncsu.edu/people/zguo32). I received my BS in Electrical Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/), Bangladesh, in 2016 and an MS in Computer Engineering from the [University of Central Florida](https://www.ece.ucf.edu/), Orlando, Florida, USA, in 2020. My research interests include Scheduling Theory, Algorithms, and Real-Time & Intelligent Systems.
+I am an incoming Assistant Professor at the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University (FIU), Miami, starting in Fall 2025. My research interests include Scheduling Theory, Algorithms, and Real-Time & Intelligent Systems.
 
->I will be joining the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University (FIU), Miami, as an Assistant Professor starting in Fall 2025. I am actively looking for self-motivated Ph.D. students to join my research group. My research focuses on scheduling theory, robust, secure, and efficient learning, and their applications in real-time and cyber-physical systems. If you are interested in theoretical foundations or system-oriented research in these areas, I encourage you to reach out! Potential research topics include but are not limited to:
->- Real-time scheduling and resource management
->- Robot Operating Systems (ROS 2)
->- Security and robustness of AI/ML in cyber-physical systems
->- Resilient and efficient machine learning for safety-critical applications
+**Education**
+===
+- Ph.D. in [Computer Science, North Carolina State University](https://www.csc.ncsu.edu/), 2025. (advisor: [Prof. Zhishan Guo](https://www.csc.ncsu.edu/people/zguo32)) 
+- MS in [Computer Engineering, University of Central Florida](https://www.ece.ucf.edu/), 2020.
+- BS in [Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/), 2016.
+
 
 
 News
 ======
+- [04/2025] Defended my **Ph.D. dissertation**!
+- [02/2025] Our paper on ViT compression (DeepCompress-ViT) got accepted at <span style="color:blue">**CVPR 2025**</span>
 - [01/2025] [New Papers!] **Soteria** got accepted at **HSCC 2025** and **Physics-Informed Mixed-Criticality Scheduling** got accepted at <span style="color:blue">**RTAS 2025**</span>
 - [07/2024] [New Papers!] **NFT** got accepted at <span style="color:blue">**ECCV 2024**</span>; **FIP** got accepted at <span style="color:blue">**CCS 2024**</span>; **Multi-threaded ROS 2** got accepted at <span style="color:blue">**EMSOFT 2024**</span>
 - [04/2024] Received **NSF Student Travel Grant** to attend CPS-IoT Week 2024 in Hong Kong, China!
