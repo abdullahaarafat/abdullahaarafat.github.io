@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Abdullah Al Arafat"
   avatar           : "propic.jpeg"
-  bio              : "Ph.D. Candidate, North Carolina State University"
-  location         : "Raleigh, NC, USA"
+  bio              : "Florida International University"
+  location         : "Miami, FL, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TM7bqtYAAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Abdullah-Al-Arafat" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : #"https://www.researchgate.net/profile/Abdullah-Al-Arafat" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "abdullahaarafat"
+  github           : #"abdullahaarafat"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "abdullah-al-arafat-12a951bb"
-  orcid            : "https://orcid.org/0000-0002-7017-0158"
+  LinkedIn         : #"abdullah-al-arafat-12a951bb"
+  orcid            : #"https://orcid.org/0000-0002-7017-0158"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
