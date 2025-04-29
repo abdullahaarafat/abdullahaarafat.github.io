@@ -61,7 +61,7 @@ News
 - Euromicro Conference on Real-Time Systems (**ECRTS** 2024)
 - ACM SIGBED International Conference on Embedded Software (**EMSOFT** 2024)
 - International Conference on Computer Vision and Pattern Recognition (**CVPR** 2025)
-- Design Automation Conference (**DAC** 2021, 2022)
+- Design Automation Conference (**DAC** 2021, 2022, 2025)
 - AAAI Conference on Artificial Intelligence (**AAAI** 2024)
 - International Conference on Real-Time Networks and Systems (**RTNS** 2021, 2022, 2023)
 - Embedded and Real-Time Computing Systems and Applications (**RTCSA** 2021, 2022, 2023, 2025)
