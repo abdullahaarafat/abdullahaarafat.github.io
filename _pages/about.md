@@ -17,32 +17,43 @@ I am an incoming Assistant Professor at the Knight Foundation School of Computin
 - BS in [Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/), 2016.
 
 
-
-News
+**News**
 ======
-- [04/2025] Defended my  <span style="color:red">**Ph.D. dissertation**!</span>
-- [02/2025] Our paper on ViT compression (DeepCompress-ViT) got accepted at <span style="color:blue">**CVPR 2025**</span>
-- [01/2025] [New Papers!] **Soteria** got accepted at **HSCC 2025** and **Physics-Informed Mixed-Criticality Scheduling** got accepted at <span style="color:blue">**RTAS 2025**</span>
-- [07/2024] [New Papers!] **NFT** got accepted at <span style="color:blue">**ECCV 2024**</span>; **FIP** got accepted at <span style="color:blue">**CCS 2024**</span>; **Multi-threaded ROS 2** got accepted at <span style="color:blue">**EMSOFT 2024**</span>
-- [04/2024] Received **NSF Student Travel Grant** to attend CPS-IoT Week 2024 in Hong Kong, China!
-- [03/2024] Received **Graduate Merit Award** from the College of Engineering, NCSU!
-- [01/2024] Received **Mentored Teaching Fellowship** and will be co-instructor for **CSC 714: Real-Time Systems** at NCSU!
-- [08/2023] One paper on **Static Slack Stealing** got accepted at <span style="color:blue">**RTSS 2023**</span>
-- [07/2023] One paper (**SSDA**) got accepted at <span style="color:blue">**ICCV 2023**</span>
-- [04/2023] Received COE Travel Grant from NCSU!
-- [03/2023] Received **ACM SIGBED Student Travel Grant** for CPS-IoT Week 2023!
-- [01/2023] One paper on **Mixed-Criticality Scheduling** got accepted at <span style="color:blue">**RTAS 2023**</span>
-- [11/2022] Received **IEEE RTSS Travel Grant**!
-- [11/2022] One workshop paper on *Resilient RT Scheduling* got accepted at WMC 2022, co-located with RTSS 2022
-- [06/2022] Received **Presentation Fellowship** from UCF!
-- [04/2022] **DAC 2022** paper on *ROS 2* selected as <span style="color:red">**Publicity Paper**!</span> [(News coverage)](https://www.ece.ucf.edu/ece-research-selected-as-design-automation-conference-dac22-publicity-paper/)
-- [03/2022] Our survey paper on *ML for Real-Time CPS* got accepted at **IEEE IoT-J**
-- [02/2022] One paper (**ROS2 Scheduling**) got accepted at <span style="color:blue">**ACM/IEEE DAC 2022**</span>
-- [04/2021] Received **Doctoral Research Support Award** (award amount: $3000.00) from the College of Graduate Studies, UCF!  
-- [01/2021] One paper (**VR-Spy**) got accepted at <span style="color:blue">**IEEE VR 2021**</span>
+<div style="width:100%;overflow:hidden;">
+  <div id="news-slider" style="height:150px; overflow:hidden; position:relative;">
+    <div id="news-items" style="position:absolute; top:0; transition:top 0.5s;">
+      <div>[04/2025] Defended my <span style="color:red">**Ph.D. dissertation**!</span></div>
+      <div>[02/2025] Paper on ViT compression (DeepCompress-ViT) accepted at <span style="color:blue">**CVPR 2025**</span></div>
+      <div>[01/2025] [New Papers!] **Soteria** at **HSCC 2025**, and **Physics-Informed MC Scheduling** at <span style="color:blue">**RTAS 2025**</span></div>
+      <div>[07/2024] [New Papers!] **NFT** at <span style="color:blue">**ECCV 2024**</span>; **FIP** at <span style="color:blue">**CCS 2024**</span></div>
+      <div>[04/2024] Received **NSF Student Travel Grant** for CPS-IoT Week 2024!</div>
+      <div>[03/2024] Received **Graduate Merit Award** from College of Engineering, NCSU!</div>
+      <div>[01/2024] Received **Mentored Teaching Fellowship**; Co-instructor for **CSC 714** at NCSU!</div>
+      <div>[08/2023] Paper on **Static Slack Stealing** accepted at <span style="color:blue">**RTSS 2023**</span></div>
+      <div>[07/2023] Paper (**SSDA**) accepted at <span style="color:blue">**ICCV 2023**</span></div>
+      <div>[04/2023] Received COE Travel Grant from NCSU!</div>
+      <!-- Add more entries if you want -->
+    </div>
+  </div>
+</div>
+
+<script>
+let current = 0;
+const newsItems = document.getElementById("news-items");
+const totalItems = newsItems.children.length;
+const itemHeight = 30; // adjust if needed
+
+setInterval(() => {
+  current = (current + 1) % totalItems;
+  newsItems.style.top = `-${current * itemHeight}px`;
+}, 3000); // change news every 3 seconds
+</script>
+
+---
 
 **Professional Services**
 =======
+
 
 **Program Committee (PC) Member**
 
@@ -62,4 +73,4 @@ News
 - Design Automation Conference (**DAC** 2021, 2022)
 - AAAI Conference on Artificial Intelligence (**AAAI** 2024)
 - International Conference on Real-Time Networks and Systems (**RTNS** 2021, 2022, 2023)
-- Embedded and Real-Time Computing Systems and Applications (**RTCSA** 2021, 2022, 2023)
+- Embedded and Real-Time Computing Systems and Applications (**RTCSA** 2021, 2022, 2023, 2025)
