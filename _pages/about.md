@@ -20,7 +20,7 @@ I am an incoming Assistant Professor at the Knight Foundation School of Computin
 News
 ======
 - [05/2025] Two papers on resilient scheduling and real-time heart monitoring got accepted at **RTCSA 2025**
-- [05/2025] Received NC State <span style="color:red">College of Engineering Doctoral Scholar of the Year, RESEARCH!</span> award for the academic year 2024-2025.
+- [05/2025] Received NC State <span style="color:red">[College of Engineering Doctoral Scholar of the Year, RESEARCH!](https://engr.ncsu.edu/news/2025/05/15/2025-scholar-of-the-year-awards-celebrate-graduate-student-achievements/)</span> award for the academic year 2024-2025.
 - [04/2025] Defended my  <span style="color:red">**Ph.D. dissertation**!</span>
 - [04/2025] Received **NSF Student Travel Grant** to attend CPS-IoT Week 2025 in Irvine, CA!
 - [02/2025] Our paper on ViT compression (DeepCompress-ViT) got accepted at <span style="color:blue">**CVPR 2025**</span>
