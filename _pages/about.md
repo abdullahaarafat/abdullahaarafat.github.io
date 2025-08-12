@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Assistant Professor at the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University (FIU), Miami, starting in Fall 2025. My research interests include Scheduling Theory, Algorithms, and Real-Time & Intelligent Systems.
+I am an Assistant Professor at the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University (FIU), Miami, starting in Fall 2025. My research interests include Scheduling Theory, Algorithms, and Real-Time & Intelligent Systems.
 
 **Education**
 ===
@@ -16,6 +16,9 @@ I am an incoming Assistant Professor at the Knight Foundation School of Computin
 - MS in Computer Engineering, University of Central Florida, 2020.
 - BS in Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology (BUET), 2016.
 
+<div style="border: 2px solid #081E3F; background-color: #F7F4E9; padding: 15px; border-radius: 8px;">
+<strong>Ph.D. Positions Available:</strong> We are looking for <strong>highly motivated Ph.D. students</strong> interested in <strong>systems</strong> or <strong>theory-inclined research</strong> to join our lab starting <strong>Spring/Fall 2026</strong>. If you are passionate about exploring cutting-edge research in <strong>real-time systems</strong>, <strong>cyber-physical systems</strong>, and <strong>secure and robust machine learning</strong>, we encourage you to contact me at <a href="mailto:aarafat@fiu.edu">aarafat@fiu.edu</a> with a short note on your research interests, your CV, transcripts, and writing samples (published paper, if applicable).
+</div>
 
 News
 ======
