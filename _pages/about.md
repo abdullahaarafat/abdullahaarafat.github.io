@@ -45,26 +45,4 @@ News
 
 
 
-**Professional Services**
-=======
 
-
-**Program Committee (PC) Member**
-
-- International Conference on Cyber-Physical Systems (**ICCPS** 2025) \[Track: Posters and Demos\]
-
-**Journal Reviewer/Subreviewer** 
-    
-- IEEE IoT-J, IEEE TNNLS, IEEE TCAD, IEEE TIME, IEEE TPDS, ACM TECS, etc.
-
-**Conference Reviewer/Subreviewer**
-    
-- Real-Time Systems Symposium (**RTSS** 2021, 2022, 2023, 2024)
-- Real-Time and Embedded Technology and Applications (**RTAS** 2022, 2024)
-- Euromicro Conference on Real-Time Systems (**ECRTS** 2024)
-- ACM SIGBED International Conference on Embedded Software (**EMSOFT** 2024)
-- International Conference on Computer Vision and Pattern Recognition (**CVPR** 2025)
-- Design Automation Conference (**DAC** 2021, 2022, 2025)
-- AAAI Conference on Artificial Intelligence (**AAAI** 2024)
-- International Conference on Real-Time Networks and Systems (**RTNS** 2021, 2022, 2023)
-- Embedded and Real-Time Computing Systems and Applications (**RTCSA** 2021, 2022, 2023, 2025)
