@@ -10,6 +10,8 @@ redirect_from:
 
 I am an Assistant Professor at the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University (FIU), Miami. I received my Ph.D. in Computer Science from North Carolina State University in 2025. My research interests include Scheduling Theory, Algorithms, and Real-Time & Intelligent Systems.
 
+><strong>Fully Funded Ph.D. Positions Available:</strong> We are looking for <strong>1–2 highly motivated Ph.D. students</strong> interested in <strong>systems</strong> or <strong>theory-inclined research</strong> to join our lab starting <strong>Spring/Fall 2026</strong>. If you are passionate about exploring cutting-edge research in <strong>real-time systems</strong>, <strong>cyber-physical systems</strong>, and <strong>secure and robust machine learning</strong>, we encourage you to contact me at <a href="mailto:aarafat@fiu.edu">aarafat@fiu.edu</a> with a short note on your research interests, your CV, transcripts, and writing samples (published paper, if applicable).
+
 **<u>Contact</u>**  
 Office/Lab: 11200 SW 8th St. CASE 261B  
 Phone: 305-348-7984  
