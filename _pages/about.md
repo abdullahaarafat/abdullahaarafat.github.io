@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University (FIU), Miami, starting in Fall 2025. My research interests include Scheduling Theory, Algorithms, and Real-Time & Intelligent Systems.
+I am an Assistant Professor at the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University (FIU), Miami. I received my Ph.D. in Computer Science from North Carolina State University in 2025. My research interests include Scheduling Theory, Algorithms, and Real-Time & Intelligent Systems.
 
-**Education**
-===
-- Ph.D. in Computer Science, North Carolina State University, 2025. (advisor: [Prof. Zhishan Guo](https://www.csc.ncsu.edu/people/zguo32)) 
-- MS in Computer Engineering, University of Central Florida, 2020.
-- BS in Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology (BUET), 2016.
+**<u>Contact</u>**  
+Office/Lab: 11200 SW 8th St. CASE 261B  
+Phone: 305-348-7984  
+Email: aarafat@fiu.edu
+
 
 
 News
