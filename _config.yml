@@ -82,13 +82,12 @@ analytics:
 author:
   name             : "Abdullah Al Arafat"
   avatar           : "pro0pic.png"
-  bio              : "KFSCIS, Florida International University"
-  location         : "CASE 261B"
+  bio              : "Assistant Professor, FIU"
   location         : "Miami, FL, USA"
-  employer         :
+  employer         : "Florida International University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TM7bqtYAAAAJ&hl=en"
-  email            : aarafat@fiu.edu
+  email            : "aarafat@fiu.edu"
   researchgate     : #"https://www.researchgate.net/profile/Abdullah-Al-Arafat" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
