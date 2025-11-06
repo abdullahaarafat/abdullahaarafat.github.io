@@ -18,6 +18,7 @@ Note: '<b><sup>\*</sup></b>' indicates equal contribution by the authors
 
 <h2>Conference Papers</h2>
 <ol reversed>
+  <li><strong>[DATE 2026]</strong> Sabbir Ahmed, Deniz Najafi, Mohaiminul Al Nahian, Navid Khoshavi, <strong>Abdullah Al Arafat</strong>, Mamshad Nayeem Rizve, Mahdi Nikdast, Adnan Siraj Rakin, and Shaahin Angizi. <a href="">INSPIRE: In-Sensor Compressed Weight Retrieval for Enhancing ViT Efficiency at Edge</a>, in <em>IEEE/ACM Design, Automation and Test in Europe <strong>(DATE)</strong>, 2026.</em></li>
   <li><span style="color:red">[CVPR 2025]</span> Sabbir Ahmed<sup>*</sup>, <strong>Abdullah Al Arafat</strong><sup>*</sup>, Deniz Najafi<sup>*</sup>, Akhlak Mahmood, Mamshad Nayeem Rizve, Mohaiminul Al Nahian, Ranyang Zhou, Shaahin Angizi, and Adnan Siraj Rakin. <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Ahmed_DeepCompress-ViT_Rethinking_Model_Compression_to_Enhance_Efficiency_of_Vision_Transformers_CVPR_2025_paper.pdf">DeepCompress-ViT: Rethinking Model Compression to Enhance Efficiency of Vision Transformers at the Edge</a>, in <em>IEEE/CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, pp. 30147-30156, 2025.</em></li>
   
   <li><strong>[RTCSA 2025a]</strong> <strong>Abdullah Al Arafat</strong>, Kurt Wilson, Sudharsan Vaidhun, Bryan C. Ward, and Zhishan Guo. <a href="https://abdullahaarafat.github.io/files/rtcsa2025a.pdf">Resilient Scheduling of Real-Time Cyber-Physical Systems against Memory-Corruptions</a>, in <em>31st IEEE International Conference on Embedded and Real-Time Computing Systems and Applications <strong>(RTCSA)</strong>, 2025.</em></li>
@@ -35,18 +36,21 @@ Note: '<b><sup>\*</sup></b>' indicates equal contribution by the authors
   <li><span style="color:red">[ECCV 2024]</span> Nazmul Karim<sup>*</sup>, <strong>Abdullah Al Arafat</strong><sup>*</sup>, Umar Khalid, Zhishan Guo, and Nazanin Rahnavard. <a href="https://abdullahaarafat.github.io/files/2024ECCV.pdf">Augmented Neural Fine-Tuning for Efficient Backdoor Purification</a>, in <em>18th European Conference on Computer Vision <strong>(ECCV)</strong>, pp. 401–418, 2024.</em></li>
   
   <li><span style="color:red">[EMSOFT 2024]</span> <strong>Abdullah Al Arafat</strong>, Kurt Wilson, Kechang Yang, and Zhishan Guo. <a href="https://abdullahaarafat.github.io/files/2024EMSOFT.pdf">Dynamic Priority Scheduling of Multi-Threaded ROS 2 Executor with Shared Resources</a>, in <em>ACM SIGBED International Conference on Embedded Software <strong>(EMSOFT)</strong>, pp. 3732–3743, 2024.</em></li>
-
-  <li><strong>[MEMOCODE 2024]</strong> Kurt Wilson, <strong>Abdullah Al Arafat</strong>,  John Baugh, Ruozhou Yu, and Zhishan Guo. <a href="https://abdullahaarafat.github.io/files/memocode24-final4.pdf">Physics-Aware Mixed-Criticality Systems Design via End-to-End Verification of CPS</a>, in <em>22nd ACM/IEEE International Symposium on Formal Methods and Models for System Design <strong>(MEMOCODE)</strong>, pp. 98--102, 2024.</em></li>
   
   <li><span style="color:red">[RTSS 2023]</span> Zhishan Guo<sup>*</sup>, Sudharsan Vaidhun<sup>*</sup>, <strong>Abdullah Al Arafat</strong><sup>*</sup>, Nan Guan, and Kecheng Yang. <a href="https://abdullahaarafat.github.io/files/2023RTSS__Slack_Stealing.pdf">Stealing Static Slack via WCRT and Sporadic P-Servers in Deadline-Driven Scheduling</a>, in <em>44th IEEE Real-Time Systems Symposium <strong>(RTSS)</strong>, pp. 40–52, 2023.</em></li>
   
   <li><span style="color:red">[ICCV 2023]</span> Sabbir Ahmed<sup>*</sup>, <strong>Abdullah Al Arafat</strong><sup>*</sup>, Mamshad Nayeem Rizve<sup>*</sup>, Rahim Hossain, Zhishan Guo, and Adnan Siraj Rakin. <a href="https://abdullahaarafat.github.io/files/2023ICCV_SSDA.pdf">SSDA: Secure Source-Free Domain Adaptation</a>, in <em>International Conference on Computer Vision <strong>(ICCV)</strong>, pp. 19180–19190, 2023.</em></li>
   
   <li><span style="color:red">[RTAS 2023]</span> <strong>Abdullah Al Arafat</strong>, Sudharsan Vaidhun, Liangkai Liu, Kechang Yang, and Zhishan Guo. <a href="https://abdullahaarafat.github.io/files/2023RTAS__MC_Budget.pdf">Compositional Mixed-Criticality Systems with Multiple Executions and Resource-Budgets Model</a>, in <em>29th IEEE Real-Time and Embedded Technology and Applications Symposium <strong>(RTAS)</strong>, pp. 67–79, 2023.</em></li>
-
-  <li><strong>[WMC 2022]</strong> <strong>Abdullah Al Arafat</strong>, Sudharsan Vaidhun, Bryan C. Ward, and Zhishan Guo. <a href="https://abdullahaarafat.github.io/files/2022WMC__SR3.pdf">A Secure Resilient Real-Time Recovery Model, Scheduler, and Analysis</a>, in <em>10th International Workshop on Mixed Criticality Systems <strong>(WMC)</strong>, @RTSS, pp. 14--19, 2022.</em></li>
   
   <li><span style="color:red">[DAC 2022]</span> <strong>Abdullah Al Arafat</strong>, Sudharsan Vaidhun, Kurt M. Wilson, Jinghao Sun, and Zhishan Guo. <a href="https://dl.acm.org/doi/abs/10.1145/3489517.3530447">Response Time Analysis for Dynamic Priority Scheduling in ROS2</a>, in <em>Proceedings of the 59th ACM/IEEE Design Automation Conference <strong>(DAC)</strong>, pp. 301–306, 2022.</em> <span style="color:red"><strong>(Publicity Paper Award)</strong></span></li>
   
   <li><span style="color:red">[VR 2021]</span> <strong>Abdullah Al Arafat</strong>, Zhishan Guo, and Amro Awad. <a href="https://abdullahaarafat.github.io/files/2021VR__VRSpy.pdf">VR-Spy: A Side-Channel Attack on Virtual Key-Logging in VR Headsets</a>, in <em>IEEE Virtual Reality and 3D User Interfaces <strong>(VR)</strong>, pp. 564–572, 2021.</em></li>
+</ol>
+
+<h2>Other Publications (Workshops/ Work-in-Progresses)</h2>
+<ol reversed>
+  <li><strong>[MEMOCODE 2024]</strong> Kurt Wilson, <strong>Abdullah Al Arafat</strong>,  John Baugh, Ruozhou Yu, and Zhishan Guo. <a href="https://abdullahaarafat.github.io/files/memocode24-final4.pdf">Physics-Aware Mixed-Criticality Systems Design via End-to-End Verification of CPS</a>, in <em>22nd ACM/IEEE International Symposium on Formal Methods and Models for System Design <strong>(MEMOCODE)</strong>, pp. 98--102, 2024.</em></li>
+  
+  <li><strong>[WMC 2022]</strong> <strong>Abdullah Al Arafat</strong>, Sudharsan Vaidhun, Bryan C. Ward, and Zhishan Guo. <a href="https://abdullahaarafat.github.io/files/2022WMC__SR3.pdf">A Secure Resilient Real-Time Recovery Model, Scheduler, and Analysis</a>, in <em>10th International Workshop on Mixed Criticality Systems <strong>(WMC)</strong>, @RTSS, pp. 14--19, 2022.</em></li>
 </ol>
