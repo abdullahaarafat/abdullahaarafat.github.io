@@ -55,3 +55,6 @@ Note: '<b><sup>\*</sup></b>' indicates equal contribution by the authors
   
   <li><strong>[WMC 2022]</strong> <strong>Abdullah Al Arafat</strong>, Sudharsan Vaidhun, Bryan C. Ward, and Zhishan Guo. <a href="https://abdullahaarafat.github.io/files/2022WMC__SR3.pdf">A Secure Resilient Real-Time Recovery Model, Scheduler, and Analysis</a>, in <em>10th International Workshop on Mixed Criticality Systems <strong>(WMC)</strong>, @RTSS, pp. 14--19, 2022.</em></li>
 </ol>
+
+<h2>Ph.D. Thesis</h2>
+ <strong>Abdullah Al Arafat</strong>. <a href="https://www.proquest.com/openview/d0924dfa0c797ee06c965647ef682827/1?pq-origsite=gscholar&cbl=18750&diss=y">Towards Resilient and Secure Real-Time Intelligent Systems</a>, in <em>North Carolina State University Ph.D. Thesis, 2025. (Advisor: <a href="https://csc.ncsu.edu/people/zguo32/">Prof. Zhishan Guo</a>)</em>
