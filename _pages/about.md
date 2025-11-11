@@ -21,6 +21,7 @@ Email: aarafat@fiu.edu
 
 News
 ======
+- [11/2025] [New Papers!] **CertMask** got accepted at <span style="color:blue">**AAAI 2026**</span>, Unified Allignment Protocol (**UAP**) got accepted at **WACV 2026**, and ViT Accelerator got accepted at **DATE 2026**
 - [05/2025] Two papers on resilient scheduling and real-time heart monitoring got accepted at **RTCSA 2025**
 - [05/2025] Received NC State <span style="color:red">[College of Engineering Doctoral Scholar of the Year, RESEARCH!](https://engr.ncsu.edu/news/2025/05/15/2025-scholar-of-the-year-awards-celebrate-graduate-student-achievements/)</span> award for the academic year 2024-2025.
 - [04/2025] Defended my  <span style="color:red">**Ph.D. dissertation**!</span>
