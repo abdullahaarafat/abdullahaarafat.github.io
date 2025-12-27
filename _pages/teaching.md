@@ -4,6 +4,9 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
+- **COP 4534: Algorithm Techniques**  
+  *Florida International University*  
+  **Role:** Instructor (Spring 2026)
 
 - **COT 3100: Discrete Structures**  
   *Florida International University*  
