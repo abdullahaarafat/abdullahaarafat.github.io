@@ -18,7 +18,9 @@ Note: '<b><sup>\*</sup></b>' indicates equal contribution by the authors
 
 <h2>Conference Papers</h2>
 <ol reversed>
-   <li><span style="color:red">[AAAI 2026]</span> Xuntao Lyu, Ching-Chi Lin, <strong>Abdullah Al Arafat</strong>, Georg von der Brüggen, Jian-Jia Chen, and Zhishan Guo. <a href="https://arxiv.org/pdf/2511.09834">CertMask: Certifiable Defense Against Adversarial Patches via Theoretically Optimal Mask Coverage</a>, in <em>40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.</em></li>
+  <li><span style="color:red">[RTAS 2026]</span> <strong>Abdullah Al Arafat</strong>, Kurt Wilson, Shareef Ahmed, and Zhishan Guo. <a href="https://abdullahaarafat.github.io/files/2025RTAS.pdf">Supporting Mixed-Criticality and Mutually Exclusive Callback Groups in Multi-Thread ROS 2</a>, in <em>32nd IEEE Real-Time and Embedded Technology and Applications Symposium <strong>(RTAS)</strong>, 2026.</em></li>
+   
+  <li><span style="color:red">[AAAI 2026]</span> Xuntao Lyu, Ching-Chi Lin, <strong>Abdullah Al Arafat</strong>, Georg von der Brüggen, Jian-Jia Chen, and Zhishan Guo. <a href="https://arxiv.org/pdf/2511.09834">CertMask: Certifiable Defense Against Adversarial Patches via Theoretically Optimal Mask Coverage</a>, in <em>40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.</em></li>
   
   <li><strong>[WACV 2026]</strong> Sabbir Ahmed, Mamshad Nayeem Rizve, <strong>Abdullah Al Arafat</strong>, Jacqueline Tiffany Liu, Rahim Hossain, Mohaiminul Al Nahian, and Adnan Siraj Rakin. <a href="">Unified Alignment Protocol: Making Sense of the Unlabeled Data in New Domains</a>, in <em>IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2026.</em><span style="color:red">(Oral Presentation)</span></li>
   
