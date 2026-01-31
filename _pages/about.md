@@ -19,6 +19,7 @@ Email: aarafat@fiu.edu
 
 News
 ======
+- [01/2026] Our **WACV 2026** paper got <span style="color:red">**Oral Presentation**</span> and **DATE 2026 paper** received <span style="color:red">**Best Paper Award Nominations**!</span> 
 - [01/2026] Our paper on **ROS 2 Mixed-Criticality Scheduling** got accepted at <span style="color:blue">**RTAS 2026**</span>
 - [11/2025] [New Papers!] **CertMask** got accepted at <span style="color:blue">**AAAI 2026**</span>, Unified Allignment Protocol (**UAP**) got accepted at **WACV 2026**, and ViT Accelerator got accepted at **DATE 2026**
 - [05/2025] Two papers on resilient scheduling and real-time heart monitoring got accepted at **RTCSA 2025**
