@@ -20,7 +20,7 @@ Note: '<b><sup>\*</sup></b>' indicates equal contribution by the authors
 <ol reversed>
   <li><span style="color:red">[CVPR 2026]</span> Mohaiminul Al Nahian, Abeer Almalky, Sabbir Ahmed, <strong>Abdullah Al Arafat</strong>, Mamshad Nayeem Rizve, and Adnan Siraj Rakin. <a href="">Unleashing Stealthy Backdoor Pandemic by Infecting a Single Diffusion Model</a>, in <em>IEEE/CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2026.</em></li>
   
-  <li><span style="color:red">[RTAS 2026]</span> <strong>Abdullah Al Arafat</strong>, Kurt Wilson, Shareef Ahmed, and Zhishan Guo. <a href="https://abdullahaarafat.github.io/files/rtas2026.pdf">Supporting Mixed-Criticality and Mutually Exclusive Callback Groups in Multi-Thread ROS 2</a>, in <em>32nd IEEE Real-Time and Embedded Technology and Applications Symposium <strong>(RTAS)</strong>, 2026.</em></li>
+  <li><span style="color:red">[RTAS 2026]</span> <strong>Abdullah Al Arafat</strong>, Kurt Wilson, Shareef Ahmed, and Zhishan Guo. <a href="https://abdullahaarafat.github.io//files/rtas2026.pdf">Supporting Mixed-Criticality and Mutually Exclusive Callback Groups in Multi-Thread ROS 2</a>, in <em>32nd IEEE Real-Time and Embedded Technology and Applications Symposium <strong>(RTAS)</strong>, 2026.</em></li>
    
   <li><span style="color:red">[AAAI 2026]</span> Xuntao Lyu, Ching-Chi Lin, <strong>Abdullah Al Arafat</strong>, Georg von der Brüggen, Jian-Jia Chen, and Zhishan Guo. <a href="https://arxiv.org/pdf/2511.09834">CertMask: Certifiable Defense Against Adversarial Patches via Theoretically Optimal Mask Coverage</a>, in <em>40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, pp. 7735-7743, 2026.</em></li>
   
