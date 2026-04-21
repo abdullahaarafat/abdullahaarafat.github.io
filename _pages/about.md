@@ -19,7 +19,7 @@ Email: aarafat@fiu.edu
 
 News
 ======
-<!--  - [01/2026] Our **WACV 2026** paper got <span style="color:red">**Oral Presentation**</span> and **DATE 2026 paper** received <span style="color:red">**Best Paper Award Nominations**!</span> -->
+- [04/2026] Our **DATE 2026 paper** received <span style="color:red">**Best Paper Award**!</span> 
 - [04/2026] Received the  <span style="color:red">**2026 Outstanding Dissertation Award**</span> from NCSU for my Ph.D. Thesis on “Resilient and Secure Real-Time Intelligent Systems”!
 - [02/2026] Our paper on Backdoor Pandemic by infecting a single Diffusion Model (Eidolon) got accepted at <span style="color:blue">**CVPR 2026**</span>
 - [01/2026] Our paper on **ROS 2 Mixed-Criticality Scheduling** got accepted at <span style="color:blue">**RTAS 2026**</span>
