@@ -20,7 +20,7 @@ Email: aarafat@fiu.edu
 News
 ======
 - [04/2026] Our **DATE 2026 paper** received <span style="color:red">**Best Paper Award**!</span> 
-- [04/2026] Received the  <span style="color:red">**2026 Outstanding Dissertation Award**</span> from NCSU for my Ph.D. Thesis on “Resilient and Secure Real-Time Intelligent Systems”!
+- [04/2026] Received the  <span style="color:red">**2026 CSC Outstanding Dissertation Award**</span> from NCSU for my Ph.D. Thesis on “Resilient and Secure Real-Time Intelligent Systems”!
 - [02/2026] Our paper on Backdoor Pandemic by infecting a single Diffusion Model (Eidolon) got accepted at <span style="color:blue">**CVPR 2026**</span>
 - [01/2026] Our paper on **ROS 2 Mixed-Criticality Scheduling** got accepted at <span style="color:blue">**RTAS 2026**</span>
 - [11/2025] [New Papers!] **CertMask** got accepted at <span style="color:blue">**AAAI 2026**</span>, Unified Allignment Protocol (**UAP**) got accepted at **WACV 2026**, and ViT Accelerator got accepted at **DATE 2026**
