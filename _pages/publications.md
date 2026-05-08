@@ -9,7 +9,7 @@ Note: '<b><sup>\*</sup></b>' indicates equal contribution by the authors
 
 <h2>Book Chapters</h2>
 <ol reversed>
-  <li><strong>[SETSS 2025]</strong> Shengjie Xu, Prateek Ganguli, Tingan Zhu, Arkaprava Gupta, Bineet Ghosh, Kurt Wilson, <strong>Abdullah Al Arafat</strong>, John Baugh, Zhishan Guo, Benjamin Berg, Parasara Sridhar Duggirala, and Samarjit Chakraborty. <a href="https://abdullahaarafat.github.io/files/2026BC.pdf">Building Safe Autonomous Systems Using Imperfect Components</a>, in <em> Engineering Trustworthy Software Systems, pp. 213–-286, May 2026.</em> </li>
+  <li><strong>[SETSS 2025]</strong> Shengjie Xu, Prateek Ganguli, Tingan Zhu, Arkaprava Gupta, Bineet Ghosh, Kurt Wilson, <strong>Abdullah Al Arafat</strong>, John Baugh, Zhishan Guo, Benjamin Berg, Parasara Sridhar Duggirala, and Samarjit Chakraborty. <a href="https://doi.org/10.1007/978-981-95-8617-2_7">Building Safe Autonomous Systems Using Imperfect Components</a>, in <em> Engineering Trustworthy Software Systems, pp. 213–-286, May 2026.</em> </li>
 
 </ol>
 
