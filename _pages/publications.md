@@ -7,6 +7,13 @@ author_profile: true
 ---
 Note: '<b><sup>\*</sup></b>' indicates equal contribution by the authors
 
+<h2>Book Chapters</h2>
+<ol reversed>
+  <li><strong>[SETSS 2025]</strong> Shengjie Xu, Prateek Ganguli, Tingan Zhu, Arkaprava Gupta, Bineet Ghosh, Kurt Wilson, <strong>Abdullah Al Arafat</strong>, John Baugh, Zhishan Guo, Benjamin Berg, Parasara Sridhar Duggirala, and Samarjit Chakraborty. <a href="https://abdullahaarafat.github.io/files/2026BC.pdf">Building Safe Autonomous Systems Using Imperfect Components</a>, in <em> Engineering Trustworthy Software Systems, pp. 213–-286, May 2026.</em> </li>
+
+</ol>
+
+
 <h2>Journal Papers</h2>
 <ol reversed>
   <li><strong>[TCAD 2024]</strong> <strong>Abdullah Al Arafat</strong>, Kurt Wilson, Kechang Yang, and Zhishan Guo. <a href="https://abdullahaarafat.github.io/files/2024EMSOFT.pdf">Dynamic Priority Scheduling of Multi-Threaded ROS 2 Executor with Shared Resources</a>, in <em>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems <strong>(TCAD)</strong>, pp. 3732--3743, November 2024.</em> </li>
