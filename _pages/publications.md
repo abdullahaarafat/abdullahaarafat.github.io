@@ -72,4 +72,4 @@ Note: '<b><sup>\*</sup></b>' indicates equal contribution by the authors
 </ol>
 
 <h2>Ph.D. Thesis</h2>
- <strong>Abdullah Al Arafat</strong>. <a href="https://www.proquest.com/openview/d0924dfa0c797ee06c965647ef682827/1?pq-origsite=gscholar&cbl=18750&diss=y">Towards Resilient and Secure Real-Time Intelligent Systems</a>, in <em>North Carolina State University Ph.D. Thesis, 2025. (Advisor: <a href="https://csc.ncsu.edu/people/zguo32/">Prof. Zhishan Guo</a>)  </em><span style="color:red"> <strong> (2026 CSC Outstanding Dissertation Award, NCSU)</strong></span></em>
+ <strong>Abdullah Al Arafat</strong>. <a href="https://www.proquest.com/openview/d0924dfa0c797ee06c965647ef682827/1?pq-origsite=gscholar&cbl=18750&diss=y">Towards Resilient and Secure Real-Time Intelligent Systems</a>, in <em>North Carolina State University Ph.D. Thesis, 2025. (Advisor: <a href="https://csc.ncsu.edu/people/zguo32/">Prof. Zhishan Guo</a>)  </em><span style="color:red"> <strong> (2026 CSC Outstanding Dissertation Award, NCSU)</strong></span>
