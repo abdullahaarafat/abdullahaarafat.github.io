@@ -25,7 +25,7 @@ Note: '<b><sup>\*</sup></b>' indicates equal contribution by the authors
 
 <h2>Conference Papers</h2>
 <ol reversed>
-  <li><span style="color:red">[CVPR 2026]</span> Mohaiminul Al Nahian, Abeer Almalky, Sabbir Ahmed, <strong>Abdullah Al Arafat</strong>, Mamshad Nayeem Rizve, and Adnan Siraj Rakin. <a href="">Unleashing Stealthy Backdoor Pandemic by Infecting a Single Diffusion Model</a>, in <em>IEEE/CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2026.</em></li>
+  <li><span style="color:red">[CVPR 2026]</span> Mohaiminul Al Nahian, Abeer Almalky, Sabbir Ahmed, <strong>Abdullah Al Arafat</strong>, Mamshad Nayeem Rizve, and Adnan Siraj Rakin. <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Al_Nahian_Unleashing_Stealthy_Backdoor_Pandemic_by_Infecting_a_Single_Diffusion_Model_CVPR_2026_paper.pdf">Unleashing Stealthy Backdoor Pandemic by Infecting a Single Diffusion Model</a>, in <em>IEEE/CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, pp. 34889-34899, 2026.</em></li>
   
   <li><span style="color:red">[RTAS 2026]</span> <strong>Abdullah Al Arafat</strong>, Kurt Wilson, Shareef Ahmed, and Zhishan Guo. <a href="https://abdullahaarafat.github.io//files/rtas2026.pdf">Supporting Mixed-Criticality and Mutually Exclusive Callback Groups in Multi-Thread ROS 2</a>, in <em>32nd IEEE Real-Time and Embedded Technology and Applications Symposium <strong>(RTAS)</strong>, 2026.</em></li>
 
