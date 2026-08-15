@@ -64,7 +64,7 @@ Note: '<b><sup>\*</sup></b>' indicates equal contribution by the authors
   <li><span style="color:red">[VR 2021]</span> <strong>Abdullah Al Arafat</strong>, Zhishan Guo, and Amro Awad. <a href="https://abdullahaarafat.github.io/files/2021VR__VRSpy.pdf">VR-Spy: A Side-Channel Attack on Virtual Key-Logging in VR Headsets</a>, in <em>IEEE Virtual Reality and 3D User Interfaces <strong>(VR)</strong>, pp. 564–572, 2021.</em></li>
 </ol>
 
-<h2>Other Publications (Workshops, Work-in-Progresses, Short Papers, etc.)</h2>
+<h2>Other Publications (Short Papers, Workshops, Work-in-Progresses, etc.)</h2>
 <ol reversed>
   <li><strong>[SEC 2026]</strong> Md Nafis Tahmid Akhand, Md Mahfuzul Haque Gazi, <strong>Abdullah Al Arafat</strong>, Kewei Sha, and Md Rubel Ahmed. <a href="">MAST: A Two-Stage Mission-Aware   Framework for Detecting Temporal Misalignment Attacks</a>, in <em>The Eleventh ACM/IEEE Symposium on Edge Computing <strong>(SEC)</strong>, 2026.</em></li>
   
