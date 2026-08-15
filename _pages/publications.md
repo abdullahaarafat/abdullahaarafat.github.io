@@ -34,8 +34,6 @@ Note: '<b><sup>\*</sup></b>' indicates equal contribution by the authors
   <li><strong>[WACV 2026]</strong> Sabbir Ahmed<sup>*</sup>, Mamshad Nayeem Rizve<sup>*</sup>, <strong>Abdullah Al Arafat</strong><sup>*</sup>, Jacqueline Tiffany Liu, Rahim Hossain, Mohaiminul Al Nahian, and Adnan Siraj Rakin. <a href="https://openaccess.thecvf.com/content/WACV2026/papers/Ahmed_Unified_Alignment_Protocol_Making_Sense_of_the_Unlabeled_Data_in_WACV_2026_paper.pdf">Unified Alignment Protocol: Making Sense of the Unlabeled Data in New Domains</a>, in <em>IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>,  pp. 2974-2983, 2026.</em><span style="color:red">  (Oral Presentation)</span></li>
 
   <li><span style="color:red">[AAAI 2026]</span> Xuntao Lyu, Ching-Chi Lin, <strong>Abdullah Al Arafat</strong>, Georg von der Brüggen, Jian-Jia Chen, and Zhishan Guo. <a href="https://arxiv.org/pdf/2511.09834">CertMask: Certifiable Defense Against Adversarial Patches via Theoretically Optimal Mask Coverage</a>, in <em>40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, pp. 7735-7743, 2026.</em></li>
-
-<li><strong>[SEC 2026]</strong> Md Nafis Tahmid Akhand, Md Mahfuzul Haque Gazi, <strong>Abdullah Al Arafat</strong>, Kewei Sha, and Md Rubel Ahmed. <a href="">MAST: A Two-Stage Mission-Aware Framework for Detecting Temporal Misalignment Attacks</a>, in <em>The Eleventh ACM/IEEE Symposium on Edge Computing <strong>(SEC)</strong>, 2026.</em></li>
   
   <li><strong>[RTCSA 2025a]</strong> <strong>Abdullah Al Arafat</strong>, Kurt Wilson, Sudharsan Vaidhun, Bryan C. Ward, and Zhishan Guo. <a href="https://abdullahaarafat.github.io/files/rtcsa2025a.pdf">Resilient Scheduling of Real-Time Cyber-Physical Systems against Memory-Corruptions</a>, in <em>31st IEEE International Conference on Embedded and Real-Time Computing Systems and Applications <strong>(RTCSA)</strong>, pp. 138-149, 2025.</em></li>
   
@@ -66,8 +64,10 @@ Note: '<b><sup>\*</sup></b>' indicates equal contribution by the authors
   <li><span style="color:red">[VR 2021]</span> <strong>Abdullah Al Arafat</strong>, Zhishan Guo, and Amro Awad. <a href="https://abdullahaarafat.github.io/files/2021VR__VRSpy.pdf">VR-Spy: A Side-Channel Attack on Virtual Key-Logging in VR Headsets</a>, in <em>IEEE Virtual Reality and 3D User Interfaces <strong>(VR)</strong>, pp. 564–572, 2021.</em></li>
 </ol>
 
-<h2>Other Publications (Workshops/ Work-in-Progresses)</h2>
+<h2>Other Publications (Workshops, Work-in-Progresses, Short Papers, etc.)</h2>
 <ol reversed>
+  <li><strong>[SEC 2026]</strong> Md Nafis Tahmid Akhand, Md Mahfuzul Haque Gazi, <strong>Abdullah Al Arafat</strong>, Kewei Sha, and Md Rubel Ahmed. <a href="">MAST: A Two-Stage Mission-Aware   Framework for Detecting Temporal Misalignment Attacks</a>, in <em>The Eleventh ACM/IEEE Symposium on Edge Computing <strong>(SEC)</strong>, 2026.</em></li>
+  
   <li><strong>[MEMOCODE 2024]</strong> Kurt Wilson, <strong>Abdullah Al Arafat</strong>,  John Baugh, Ruozhou Yu, and Zhishan Guo. <a href="https://abdullahaarafat.github.io/files/memocode24-final4.pdf">Physics-Aware Mixed-Criticality Systems Design via End-to-End Verification of CPS</a>, in <em>22nd ACM/IEEE International Symposium on Formal Methods and Models for System Design <strong>(MEMOCODE)</strong>, pp. 98--102, 2024.</em></li>
   
   <li><strong>[WMC 2022]</strong> <strong>Abdullah Al Arafat</strong>, Sudharsan Vaidhun, Bryan C. Ward, and Zhishan Guo. <a href="https://abdullahaarafat.github.io/files/2022WMC__SR3.pdf">A Secure Resilient Real-Time Recovery Model, Scheduler, and Analysis</a>, in <em>10th International Workshop on Mixed Criticality Systems <strong>(WMC)</strong>, @RTSS, pp. 14--19, 2022.</em></li>
