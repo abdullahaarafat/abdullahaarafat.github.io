@@ -66,7 +66,9 @@ Note: '<b><sup>\*</sup></b>' indicates equal contribution by the authors
 
 <h2>Other Publications (Short Papers, Workshops, Work-in-Progresses, etc.)</h2>
 <ol reversed>
-  <li><strong>[SEC 2026]</strong> Md Nafis Tahmid Akhand, Md Mahfuzul Haque Gazi, <strong>Abdullah Al Arafat</strong>, Kewei Sha, and Md Rubel Ahmed. <a href="">MAST: A Two-Stage Mission-Aware   Framework for Detecting Temporal Misalignment Attacks</a>, in <em>The Eleventh ACM/IEEE Symposium on Edge Computing <strong>(SEC)</strong>, 2026.</em></li>
+  <li><strong>[IEEE CARS'26]</strong> Md Sanowar Hossain, <strong>Abdullah Al Arafat</strong>, Adnan Siraj Rakin, and Mohammad Jobayer Hossain. <a href="">Integrated Photonic Time-Multiplexed Reservoir Computing for Time Series Prediction</a>, in <em>the International Conference on Artificial Intelligence Applications and Innovations (AI²), IEEE Cyber Awareness and Research Symposium <strong>(IEEE CARS)</strong>, 2026.</em></li>
+  
+  <li><strong>[SEC 2026]</strong> Md Nafis Tahmid Akhand, Md Mahfuzul Haque Gazi, <strong>Abdullah Al Arafat</strong>, Kewei Sha, and Md Rubel Ahmed. <a href="">Short Paper: MAST: A Two-Stage Mission-Aware   Framework for Detecting Temporal Misalignment Attacks</a>, in <em>The Eleventh ACM/IEEE Symposium on Edge Computing <strong>(SEC)</strong>, 2026.</em></li>
   
   <li><strong>[MEMOCODE 2024]</strong> Kurt Wilson, <strong>Abdullah Al Arafat</strong>,  John Baugh, Ruozhou Yu, and Zhishan Guo. <a href="https://abdullahaarafat.github.io/files/memocode24-final4.pdf">Physics-Aware Mixed-Criticality Systems Design via End-to-End Verification of CPS</a>, in <em>22nd ACM/IEEE International Symposium on Formal Methods and Models for System Design <strong>(MEMOCODE)</strong>, pp. 98--102, 2024.</em></li>
   
