@@ -4,6 +4,10 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
+- **CIS 5931: Real-Time Systems**  
+  *Florida International University*  
+  **Role:** Instructor (Fall 2026)
+
 - **COP 4534: Algorithm Techniques**  
   *Florida International University*  
   **Role:** Instructor (Spring 2026)
