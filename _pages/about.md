@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University (FIU), Miami. I received my Ph.D. in Computer Science from North Carolina State University in 2025. My research interests include Scheduling Theory, Algorithms, and Real-Time & Intelligent Systems. I was honored to receive the [2026 ACM SIGBED Paul Caspi Memorial Dissertation Award](abdullahaarafat.github.io/images/ESWEEK_5417ESWEEK_5417.jpg).
+I am an Assistant Professor at the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University (FIU), Miami. I received my Ph.D. in Computer Science from North Carolina State University in 2025. My research interests include Scheduling Theory, Algorithms, and Real-Time & Intelligent Systems. I was honored to receive the [2026 ACM SIGBED Paul Caspi Memorial Dissertation Award](https://abdullahaarafat.github.io//images/ESWEEK_5417ESWEEK_5417.jpg).
 
 **<u>Contact</u>**  
 Office/Lab: 11200 SW 8th St. CASE 261B  
