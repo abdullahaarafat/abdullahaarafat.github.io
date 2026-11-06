@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University (FIU), Miami. I received my Ph.D. in Computer Science from North Carolina State University in 2025. My research interests include Scheduling Theory, Algorithms, and Real-Time & Intelligent Systems.
+I am an Assistant Professor at the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University (FIU), Miami. I received my Ph.D. in Computer Science from North Carolina State University in 2025. My research interests include Scheduling Theory, Algorithms, and Real-Time & Intelligent Systems. I was honored to receive the [2026 ACM SIGBED Paul Caspi Memorial Dissertation Award](abdullahaarafat.github.io/images/ESWEEK_5417ESWEEK_5417.jpg).
 
 **<u>Contact</u>**  
 Office/Lab: 11200 SW 8th St. CASE 261B  
@@ -19,6 +19,7 @@ Email: aarafat@fiu.edu
 
 News
 ======
+- [10/2026] I am honored to receive the  <span style="color:red">[**2026 ACM SIGBED Paul Caspi Memorial Dissertation Award**](https://sigbed.org/2026/05/22/paul-caspi-dissertation-award-2026/)</span> for my Ph.D. Thesis on “Resilient and Secure Real-Time Intelligent Systems”!
 - [04/2026] Our **DATE 2026 paper** received <span style="color:red">**Best Paper Award**!</span> 
 - [04/2026] Received the  <span style="color:red">**2026 CSC Outstanding Dissertation Award**</span> from NCSU for my Ph.D. Thesis on “Resilient and Secure Real-Time Intelligent Systems”!
 - [02/2026] Our paper on Backdoor Pandemic by infecting a single Diffusion Model (Eidolon) got accepted at <span style="color:blue">**CVPR 2026**</span>
